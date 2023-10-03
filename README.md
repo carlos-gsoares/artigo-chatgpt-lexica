@@ -70,9 +70,3 @@ Siga-me nas redes sociais para mais dicas de front-end!
 #WebDesign
 #Flexbox
 #Grid
-css
-Copy code
-
-```
-Este README fornecerá uma breve introdução e orientação sobre Flexbox e Grid, ajudando outros desenvolvedores a entender quando e como usar essas técnicas de layout em seus projetos. Não se esqueça de personalizar os links de redes sociais e as hashtags com suas informações.
-```
